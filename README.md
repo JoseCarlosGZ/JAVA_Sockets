@@ -22,5 +22,10 @@ En este proyecto he construido una aplicación capaz de transmitir el stock de u
 La aplicación Cliente se ha construido siguiendo el patrón de diseño vista-controlador y usando la librería Java Swing: la clase VistaCliente contiene lo relativo a la interfaz gráfica y el controlador de dicha interfaz gráfica lo hemos desarrollado en la clase HiloCliente.
 En la siguiente figura se muestra la interfaz gráfica desarrollada para el Cliente indicando los distintos controles:
 
-https://github.com/hotomol/sockets/blob/main/video_demostracion.mp4
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%201.%20Interfaz%20Aplicaci%C3%B3n%20Cliente.png?raw=true" alt="Figura 0. Socket">
+  <br><i>Figura 0. Socket</i>
+</p>
+</br>
+</br>
 
