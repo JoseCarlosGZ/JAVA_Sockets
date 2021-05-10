@@ -13,7 +13,7 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/hotomol/sockets/master/Images/socket.png?raw=true" alt="Figura 0. Socket">
-  <figcaption>Figura 0. Socket</figcaption>
+  	<img src="https://raw.githubusercontent.com/hotomol/sockets/master/Images/socket.png?raw=true" alt="Figura 0. Socket">
+  	<figcaption>Figura 0. Socket</figcaption>
 
 
