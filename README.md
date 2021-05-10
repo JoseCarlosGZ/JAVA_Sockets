@@ -11,9 +11,9 @@
 *Figura 0. Socket*
 
 
-<figure class="image">
-<p align="center">
+
+
   <img src="https://raw.githubusercontent.com/hotomol/sockets/master/Images/socket.png?raw=true" alt="Figura 0. Socket">
   <figcaption>Figura 0. Socket</figcaption>
-</p>
-</figure>
+
+
