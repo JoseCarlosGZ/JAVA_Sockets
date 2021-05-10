@@ -5,7 +5,5 @@
 	La aplicación Cliente se ha construido siguiendo el patrón de diseño vista-controlador y usando la librería Java Swing: la clase VistaCliente contiene lo relativo a la interfaz gráfica y el controlador de dicha interfaz gráfica lo hemos desarrollado en la clase HiloCliente.
 	En la siguiente figura se muestra la interfaz gráfica desarrollada para el Cliente indicando los distintos controles:
 	
-
-  <img src="https://raw.githubusercontent.com/hotomol/sockets/master/Images/socket.png" />
-</p>
+	![](https://raw.githubusercontent.com/hotomol/sockets/master/Images/socket.png)
 	*Figura 0. Socket*
