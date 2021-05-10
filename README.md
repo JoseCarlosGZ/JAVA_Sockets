@@ -6,4 +6,5 @@
 	En la siguiente figura se muestra la interfaz gráfica desarrollada para el Cliente indicando los distintos controles:
 	
 	![](https://raw.githubusercontent.com/hotomol/sockets/master/Images/socket.png)
+	
 	*Figura 0. Socket*
