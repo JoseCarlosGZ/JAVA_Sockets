@@ -5,7 +5,7 @@ En este proyecto he construido una aplicación capaz de transmitir el stock de u
   <br><i>Figura 0. Socket</i>
 </p>
 
-### Demostración
+### Demostración de comunicación entre la app Cliente y la app Servidor
 <p align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/demostracion.gif?raw=true" alt="Figura 0. Socket">
   <br><i>Figura 0. Socket</i>
