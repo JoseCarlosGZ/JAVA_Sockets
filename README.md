@@ -3,7 +3,7 @@
 En este proyecto he construido una aplicación capaz de transmitir el stock de un almacén de chirimoyas entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
 <p align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%200.%20Socket.png?raw=true" alt="Figura 0. Socket">
-  <br><i>Figura 0. Socket</i>
+  <br><i>Figura 0. Socket.</i>
 </p>
 </br>
 </br>
@@ -13,7 +13,7 @@ En este proyecto he construido una aplicación capaz de transmitir el stock de u
 ------------
 <p align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/demostracion.gif?raw=true" alt="Figura 0. Socket">
-  <br><i>Video demostrativo</i>
+  <br><i>Video demostrativo.</i>
 </p>
 </br>
 </br>
@@ -24,7 +24,7 @@ En la siguiente figura se muestra la interfaz gráfica desarrollada para el Clie
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%201.%20Interfaz%20Aplicaci%C3%B3n%20Cliente.png?raw=true" alt="Figura 0. Socket">
-  <br><i>Figura 0. Socket</i>
+  <br><i>Figura 1. Interfaz Aplicación Cliente.</i>
 </p>
 </br>
 </br>
