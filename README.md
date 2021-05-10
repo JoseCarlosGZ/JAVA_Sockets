@@ -6,5 +6,5 @@
 	En la siguiente figura se muestra la interfaz gráfica desarrollada para el Cliente indicando los distintos controles:
 <p align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/master/Images/socket.png?raw=true" alt="Figura 0. Socket">
-  <i>Figura 0. Socket</i>
+  <br><i>Figura 0. Socket</i>
 </p>
