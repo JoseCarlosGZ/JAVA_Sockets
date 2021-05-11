@@ -34,3 +34,10 @@ En la siguiente figura se muestra la interfaz gráfica desarrollada para el Clie
  <i>Figura 2. Código del botón btnConexion.</i>
 </p>
 
+A continuación, se muestra el constructor de la clase HiloCliente, en cuyo código se crea el socket de la parte del cliente mediante el constructor de la clase Socket, el puerto de conexión y la dirección del servidor introducidos por el usuario.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%203.%20Constructor%20de%20la%20clase%20HiloCliente.png?raw=true" >
+ <i>Figura 3. Constructor de la clase HiloCliente.</i>
+</p>
+
+
