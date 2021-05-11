@@ -6,13 +6,15 @@ En este proyecto he construido una aplicación capaz de transmitir el stock de u
 </p>
 <br>
 <br>
-<h2>Demostración de comunicación entre la app Cliente y la app Servidor</h2>
-<p align="center">
+<h2>Demo</h2>
+<div align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/demostracion.gif?raw=true">
 <i>Video demostrativo.</i>
-</p>
+</div>
 <br>
 <br>
+
+<h2>Desarrollo de la Aplicación Cliente</h2>
 La aplicación Cliente se ha construido siguiendo el patrón de diseño vista-controlador y
 usando la librería Java Swing: la clase VistaCliente contiene lo relativo a la interfaz gráfica y el controlador de dicha interfaz gráfica lo hemos desarrollado en la clase HiloCliente.
 En la siguiente figura se muestra la interfaz gráfica desarrollada para el Cliente indicando los distintos controles:
@@ -102,4 +104,4 @@ Figura 8. Código del botón btnSalir.</i>
 </div>
 <br>
 <br>
-
+<h2>Desarrollo de la Aplicación Servidor</h2>
