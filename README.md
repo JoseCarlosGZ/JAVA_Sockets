@@ -29,19 +29,20 @@ En la siguiente figura se muestra la interfaz gráfica desarrollada para el Clie
 <b>(2)</b>. Cuadro de texto, cuya variable se txtDireccion recibe la dirección del servidor a la que se conectará el socket.
 
 <b>(3)</b>. Botón btnConexionCliente cuyo método ‘click’ creará una instancia de la clase HiloCliente donde creamos el hilo que controlará la creación del socket, conexión con el Servidor y flujos de Entrada/Salida.
-<p align="center">
+<div align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%202.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnConexion.png?raw=true" >
  <i>Figura 2. Código del botón btnConexion.</i>
-</p>
+</div>
+<br>
 <br>
 A continuación, se muestra el constructor de la clase HiloCliente, en cuyo código se crea el socket de la parte del cliente mediante el constructor de la clase Socket, el puerto de conexión y la dirección del servidor introducidos por el usuario.
-<p align="center">
+<br>
+<div align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%203.%20Constructor%20de%20la%20clase%20HiloCliente.png?raw=true" >
  <i>Figura 3. Constructor de la clase HiloCliente.</i>
-</p>
+</div>
 <br>
 El método run() comienza a ejecutarse cuando se crea el hilo con la instrucción h.start(). Mirar figura 2. La  parte más importante del método run() es la comunicación del hilo Cliente con el hilo Servidor mediante los flujos de entrada y salida.
-<br>
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%204.%20M%C3%A9todo%20run()%20del%20hilo%20de%20la%20aplicaci%C3%B3n%20Cliente.png?raw=true" >
