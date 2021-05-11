@@ -52,9 +52,8 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 - Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 5.
 <br>
 <br>
-
 <div align="center">
-  <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%201.%20Interfaz%20Aplicaci%C3%B3n%20Cliente.png?raw=true" alt="Figura 1. Interfaz Aplicación Cliente.">  
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%205.%20Conexi%C3%B3n%20ClienteServidor%20exitosa.png" alt="Figura 5. Conexión Cliente-Servidor exitosa">  
 <br>
 <i>Figura 1. Interfaz Aplicación Cliente.</i>
 </div>
