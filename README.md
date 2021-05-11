@@ -105,3 +105,14 @@ Figura 8. Código del botón btnSalir.</i>
 <br>
 <br>
 <h2>Desarrollo de la Aplicación Servidor</h2>
+La aplicación servidor se ha construido siguiendo el patrón de diseño vista-controlador y usando la librería Java Swing: la clase VistaServidor contiene lo relativo a la interfaz y el controlador de dicha interfaz gráfica lo hemos desarrollado en la clase HiloServidor.
+
+En la siguiente figura se muestra la interfaz desarrollada indicando los distintos controles.
+<br>
+<br>
+<div align="center">
+  <img src="" >
+ <i>Figura 9. Interfaz gráfica de la aplicación Servidor.</i>
+</div>
+<br>
+<br>
