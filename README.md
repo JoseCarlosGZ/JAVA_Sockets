@@ -70,6 +70,7 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <b>(5)</b>. Botón que envía al controlador del servidor (vía socket) el contenido del cuadro de texto que le acompaña (nº6 de figura 1)  para incrementar la variable stock que guarda del lado del servidor el número de chirimoyas.
 Cuando el servidor recibe dicha cadena la castea a número entero, se la suma a la variable ‘stock’ manda el resultado de vuelta al cliente que lo muestra en el cuadro de texto txtConsultar (nº10 de figura 1). 
 <br>
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%206.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnInsertar%20(mirar%20n%C2%BA5%20de%20la%20figura%201).png" >
  <i>Figura 6. Código del botón btnInsertar (mirar nº5 de la figura 1).</i>
@@ -81,6 +82,7 @@ Cuando el servidor recibe dicha cadena la castea a número entero, se la suma a 
 <br>
 <b>(8)</b>. Botón que envía al controlador del servidor (vía socket) el contenido del cuadro de texto que le acompaña (nº9 de figura 1)  para disminuir la variable stock que guarda del lado del servidor el número de aguacates.
 Cuando el servidor recibe dicha cadena la castea a número entero, se la resta (es negativo) a la variable ‘stock’ que manda el resultado de vuelta al cliente y lo muestra en el cuadro de texto txtConsultar (nº10 de figura 1).  
+<br>
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%207.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnRetirar.png" >
