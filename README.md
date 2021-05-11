@@ -200,7 +200,10 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 </div>
 <br>
 <br>
-[![Made with Java](https://badgen.net/badge/Language/Java/red?icon=kofi)](#)
+
+<a https://www.java.com/" target="_blank">
+  <https://badgen.net/badge/Language/Java/red?icon=kofi" >
+</a>
 <a href="http://opensource.org/licenses/MIT" target="_blank">
   <img src="https://img.shields.io/npm/l/markdownlint.svg" >
 </a>
