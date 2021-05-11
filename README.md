@@ -1,5 +1,5 @@
-<u><h1>Comunicación en red por medio de sockets usando protocolo TCP</h1></u>
-<hr />
+<h1>Comunicación en red por medio de sockets usando protocolo TCP</h1>
+<hr>
 En este proyecto he construido una aplicación capaz de transmitir el stock de un almacén de chirimoyas entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
 <p align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%200.%20Socket.png?raw=true" alt="Figura 0. Socket">
