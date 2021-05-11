@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/npm/l/markdownlint.svg" >
 </a>
 <h1>Comunicación en red por medio de sockets (TCP)</h1>
-En este proyecto he construido una aplicación capaz de transmitir el stock de un almacén de chirimoyas entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
+En este proyecto he construido una aplicación capaz de transmitir el stock de un almacén de aguacates entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
 <p align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%200.%20Socket.png?raw=true" alt="Figura 0. Socket">
   <br><i>Figura 0. Socket.</i>
