@@ -174,4 +174,3 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <br>
 De igual modo se han programado mensajes a nivel de entorno consola indicando los pasos que sigue la aplicación. Mirar video adjunto.
 <br>
-<br>
