@@ -198,3 +198,15 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
   <br>
  <i>Figura 15. Código del botón btnSalir.</i>
 </div>
+
+
+License
+-------
+
+[![License][license-image]][license-url]
+
+Released under the MIT License. See the [LICENSE](LICENSE) file
+for details.
+
+[license-image]: https://img.shields.io/npm/l/markdownlint.svg
+[license-url]: http://opensource.org/licenses/MIT
