@@ -133,9 +133,12 @@ En la siguiente figura se muestra la interfaz desarrollada indicando los distint
 <br>
 A continuación, se muestra el constructor de la clase HiloServidor, en cuyo código se crea el socket de la parte del servidor mediante el constructor de la clase Socket y el puerto de conexión introducido por el usuario.
 <br>
-<br>
+
 <div align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%2011.%20Constructor%20de%20la%20clase%20HiloServidor.png" >
   <br>
  <i>Figura 11. Constructor de la clase HiloServidor.</i>
 </div>
+<br>
+<br>
+El método run() comienza a ejecutarse cuando se crea el hilo con la instrucción h.start(). Mirar figura 9. La  parte más importante del método run() es la comunicación del hilo Servidor con el hilo Cliente mediante los flujos de entrada y salida.
