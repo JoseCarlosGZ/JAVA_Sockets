@@ -23,7 +23,7 @@ La aplicación Cliente se ha construido siguiendo el patrón de diseño vista-co
 En la siguiente figura se muestra la interfaz gráfica desarrollada para el Cliente indicando los distintos controles:
 
 <p align="center">
-  <img src="?raw=true" alt="Figura 0. Socket">
+  <img src="?raw=true" >
   <br><i>Figura 1. Interfaz Aplicación Cliente.</i>
 </p>
 </br>
