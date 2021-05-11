@@ -118,9 +118,9 @@ En la siguiente figura se muestra la interfaz desarrollada indicando los distint
 <br>
 <br>
 <b>(1)</b>. Cuadro de texto, cuya variable txtPuerto recibe el número de puerto al que se conectará el socket de la parte del Servidor.
-<br>
+<br><br>
 <b>(2)</b>. Cuadro de texto, cuya variable txtStock recibe el stock inicial del almacen introducido por el usuario al arrancar el servidor, según lo indicado en el enunciado de la tarea.
-<br>
+<br><br>
 <b>(3)</b>. Botón, cuya variable btnConexionServidor inicia el hilo del servidor que controlará la creación del socket, y flujos de entrada/salida para comunicarse con el Cliente.
 <br>
 <br>
