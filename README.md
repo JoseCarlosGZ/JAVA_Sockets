@@ -164,8 +164,9 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <br>
 <b>(4)</b>. Etiqueta, cuya misión es la de informar al usuario del estado de la conexión Cliente-Servidor para brindar una experiencia de usuario agradable. Esta etiqueta tiene 3 estados: 
 <br>
+<br>
 <ul>
-<li>Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;</li>
-<li>Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;</li>
-<li>Support identification, interpretation, fliter of the HTML tags;</li>
+<li>Mientras el Servidor permanece sin conectar muestra el mensaje “conexión OFF” como se muestra en la figura 8 del presente documento.</li>
+<li>Cuando se ha creado el socket de la parte del servidor, pero aun no se ha conectado, es decir, la instrucción .accept() aún está en espera de la conexión del cliente. En este caso se  muestra el mensaje “Esperando conexión Cliente” en color naranja. Mirar figura 13.</li>
+<li>Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 14.</li>
 </ul>
