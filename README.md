@@ -20,7 +20,7 @@ En la siguiente figura se muestra la interfaz gráfica desarrollada para el Clie
 <br>
 
 <p align="center">
-  <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%201.%20Interfaz%20Aplicaci%C3%B3n%20Cliente.png?raw=true" alt="Figura 1. Interfaz Aplicación Cliente.">
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%201.%20Interfaz%20AppCliente.png" alt="Figura 1. Interfaz Aplicación Cliente.">
   <br><i>Figura 1. Interfaz Aplicación Cliente.</i>
 </p>
 <br>
