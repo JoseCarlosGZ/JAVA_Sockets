@@ -201,8 +201,11 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <br>
 <br>
 
-<a href="https://www.java.com/" target="_blank">
+<a href="https://netbeans.apache.org/" target="_blank">
   <img src="https://badgen.net/badge/Language/Java/red?icon=kofi" >
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://badgen.net/badge/ID/NetBeans/purple" >
 </a>
 <a href="http://opensource.org/licenses/MIT" target="_blank">
   <img src="https://img.shields.io/npm/l/markdownlint.svg" >
