@@ -200,8 +200,9 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 </div>
 
 
-License
--------
+<br>
+<br>
+<h2>License</h2>
 
 [![License][license-image]][license-url]
 
