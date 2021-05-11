@@ -45,7 +45,8 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%204.%20M%C3%A9todo%20run()%20del%20hilo%20de%20la%20aplicaci%C3%B3n%20Cliente.png?raw=true" >
  <i>Figura 4. Método run() del hilo de la aplicación Cliente.</i>
 </p>
-
+<br>
+<br>
 <b>(4)</b>. Etiqueta, cuya misión es la de informar al usuario del estado de la conexión Cliente-Servidor para brindar una experiencia de usuario agradable.  Esta etiqueta tiene 2 estados: 
 - Mientras el Cliente permanece sin conectar muestra el mensaje “conexión OFF” como aparece en la figura 1 del presente documento.
 - Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 5.
