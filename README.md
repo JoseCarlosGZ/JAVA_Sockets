@@ -1,8 +1,6 @@
-
-
 [![Made with Java](https://badgen.net/badge/Language/Java/red?icon=kofi)](#)
 [![license-MIT](https://img.shields.io/npm/l/markdownlint.svg)](http://opensource.org/licenses/MIT)
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 <a href="http://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/npm/l/markdownlint.svg" ></a>
 
 <h1>Comunicación en red por medio de sockets (TCP)</h1>
