@@ -93,3 +93,13 @@ Cuando el servidor recibe dicha cadena la castea a número entero, se la resta (
 <b>(10)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de chirimoyas de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
 
 <b>(11)</b>. Botón salir que cierra la ventana principal de la aplicación.
+<br>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%208.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnSalir.png" >
+ <i>
+Figura 8. Código del botón btnSalir.</i>
+</div>
+<br>
+<br>
+
