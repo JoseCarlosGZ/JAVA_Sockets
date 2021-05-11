@@ -164,4 +164,6 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <br>
 <b>(4)</b>. Etiqueta, cuya misión es la de informar al usuario del estado de la conexión Cliente-Servidor para brindar una experiencia de usuario agradable. Esta etiqueta tiene 3 estados: 
 <br>
-
+- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
+- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
+- Support identification, interpretation, fliter of the HTML tags;
