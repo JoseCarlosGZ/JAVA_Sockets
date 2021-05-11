@@ -1,4 +1,4 @@
-<h2><u>Comunicación en red por medio de sockets usando protocolo TCP</u></h2>
+<u><h1>Comunicación en red por medio de sockets usando protocolo TCP</h1></u>
 
 En este proyecto he construido una aplicación capaz de transmitir el stock de un almacén de chirimoyas entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
 <p align="center">
