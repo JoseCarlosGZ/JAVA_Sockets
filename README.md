@@ -189,4 +189,12 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <br>
 <b>(5)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de chirimoyas de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
 <br>
+<br>
 <b>(6)</b>. Botón salir que cierra la ventana principal de la aplicación.
+<br>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%2015.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnSalir.png" >
+  <br>
+ <i>Figura 15. Código del botón btnSalir.</i>
+</div>
