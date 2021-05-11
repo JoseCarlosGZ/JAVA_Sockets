@@ -170,6 +170,6 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <li>Cuando se ha creado el socket de la parte del servidor, pero aun no se ha conectado, es decir, la instrucción .accept() aún está en espera de la conexión del cliente. En este caso se  muestra el mensaje “Esperando conexión Cliente” en color naranja. Mirar figura 13.</li>
 <li>Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 14.</li>
 </ul>
-<br>
+
 De igual modo se han programado mensajes a nivel de entorno consola indicando los pasos que sigue la aplicación. Mirar video adjunto.
 <br>
