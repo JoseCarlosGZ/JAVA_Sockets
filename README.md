@@ -1,5 +1,5 @@
 [![Made with Java](https://badgen.net/badge/Language/Java/red?icon=kofi)](#)
-[![license-MIT](https://img.shields.io/npm/l/markdownlint.svg)](http://opensource.org/licenses/MIT)
+
 
 <a href="http://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/npm/l/markdownlint.svg" ></a>
 
