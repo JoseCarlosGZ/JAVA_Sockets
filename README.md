@@ -48,6 +48,7 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
  <i>Figura 4. Método run() del hilo de la aplicación Cliente.</i>
 </div>
 <br>
+<br>
 <b>(4)</b>. Etiqueta, cuya misión es la de informar al usuario del estado de la conexión Cliente-Servidor para brindar una experiencia de usuario agradable.  Esta etiqueta tiene 2 estados: 
 - Mientras el Cliente permanece sin conectar muestra el mensaje “conexión OFF” como aparece en la figura 1 del presente documento.
 - Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 5.
@@ -58,5 +59,6 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <br>
 <i>Figura 5. Conexión Cliente-Servidor exitosa.</i>
 </div>
+<br>
 <br>
 
