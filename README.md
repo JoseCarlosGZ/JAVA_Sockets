@@ -55,7 +55,7 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <p align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%205.%20Conexi%C3%B3n%20ClienteServidor%20exitosa.png?raw=true" >
  </p>
- <span align="center" style="border:1px solid red;">
+ <div align="center" style="border:1px solid red;">
     <i>Figura 5. Conexión exitosa.</i>
-</span>
+</div>
 <br>
