@@ -1,5 +1,6 @@
-(https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badg(es/)
-(https://forthebadge.com/images/badges/made-with-java.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+[![Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)
 
 
 
