@@ -1,6 +1,6 @@
 
 
-[![Made with Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](#)
+[![Made with Java](https://badgen.net/badge/Language/Java/red?icon=kofi)](#)
 [![license-MIT](https://img.shields.io/npm/l/markdownlint.svg)](http://opensource.org/licenses/MIT)
 
 
