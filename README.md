@@ -185,3 +185,8 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
   <br>
  <i>Figura 14. Conexión Servidor-Cliente exitosa.</i>
 </div>
+<br>
+<br>
+<b>(5)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de chirimoyas de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
+<br>
+<b>(6)</b>. Botón salir que cierra la ventana principal de la aplicación.
