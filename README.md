@@ -171,6 +171,5 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <li>Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 14.</li>
 </ul>
 <br>
-<br>
 De igual modo se han programado mensajes a nivel de entorno consola indicando los pasos que sigue la aplicación. Mirar video adjunto.
 <br>
