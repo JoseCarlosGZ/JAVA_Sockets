@@ -89,6 +89,7 @@ Cuando el servidor recibe dicha cadena la castea a número entero, se la resta (
  <i>Figura 7. Código del botón btnRetirar.</i>
 </div>
 <br>
+<br>
 <b>(10)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de chirimoyas de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
 
 <b>(11)</b>. Botón salir que cierra la ventana principal de la aplicación.
