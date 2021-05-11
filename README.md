@@ -6,7 +6,7 @@ En este proyecto he construido una aplicación capaz de transmitir el stock de u
 </p>
 <br>
 <br>
-<h2>Demo</h2>
+<h2>Demostración de funcionamiento</h2>
 <div align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/demostracion.gif?raw=true">
 <i>Video demostrativo.</i>
