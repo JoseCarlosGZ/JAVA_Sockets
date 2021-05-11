@@ -124,3 +124,8 @@ En la siguiente figura se muestra la interfaz desarrollada indicando los distint
 <b>(3)</b>. Botón, cuya variable btnConexionServidor inicia el hilo del servidor que controlará la creación del socket, y flujos de entrada/salida para comunicarse con el Cliente.
 <br>
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%2010.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnConexionServidor.png" >
+  <br>
+ <i>Figura 10. Código del botón btnConexionServidor.</i>
+</div>
