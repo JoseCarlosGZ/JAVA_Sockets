@@ -23,7 +23,7 @@ La aplicación Cliente se ha construido siguiendo el patrón de diseño vista-co
 En la siguiente figura se muestra la interfaz gráfica desarrollada para el Cliente indicando los distintos controles:
 
 <p align="center">
-  <img src="?raw=true" >
+  <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%201.%20Interfaz%20Aplicaci%C3%B3n%20Cliente.png?raw=true" >
   <br><i>Figura 1. Interfaz Aplicación Cliente.</i>
 </p>
 </br>
