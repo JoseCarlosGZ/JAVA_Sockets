@@ -41,7 +41,7 @@ A continuación, se muestra el constructor de la clase HiloCliente, en cuyo cód
 </p>
 <br>
 El método run() comienza a ejecutarse cuando se crea el hilo con la instrucción h.start(). Mirar figura 2. La  parte más importante del método run() es la comunicación del hilo Cliente con el hilo Servidor mediante los flujos de entrada y salida.
-
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%204.%20M%C3%A9todo%20run()%20del%20hilo%20de%20la%20aplicaci%C3%B3n%20Cliente.png?raw=true" >
  <i>Figura 4. Método run() del hilo de la aplicación Cliente.</i>
