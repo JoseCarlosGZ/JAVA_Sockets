@@ -1,6 +1,6 @@
 
 
-[![Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)
+[Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)
 
 
 
