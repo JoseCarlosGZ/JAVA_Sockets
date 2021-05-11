@@ -111,7 +111,7 @@ En la siguiente figura se muestra la interfaz desarrollada indicando los distint
 <br>
 <br>
 <div align="center">
-  <img src="" >
+  <img src="https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%209.%20Interfaz%20gr%C3%A1fica%20del%20Servidor.png" >
  <i>Figura 9. Interfaz gráfica de la aplicación Servidor.</i>
 </div>
 <br>
