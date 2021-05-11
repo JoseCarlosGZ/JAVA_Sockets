@@ -1,9 +1,8 @@
 
 
-[![Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)
+[![Made with Java](https://forthebadge.com/images/badges/made-with-java.svg)(#)
 
-[license-image]: https://img.shields.io/npm/l/markdownlint.svg
-[license-url]: http://opensource.org/licenses/MIT
+[license-image](https://img.shields.io/npm/l/markdownlint.svg)(http://opensource.org/licenses/MIT)
 
 
 <h1>Comunicación en red por medio de sockets (TCP)</h1>
