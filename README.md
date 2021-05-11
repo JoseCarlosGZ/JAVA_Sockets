@@ -53,10 +53,10 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 <br>
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%201.%20Interfaz%20Aplicaci%C3%B3n%20Cliente.png?raw=true" alt="Figura 1. Interfaz Aplicación Cliente.">  
 <br>
 <i>Figura 1. Interfaz Aplicación Cliente.</i>
-</p>
+</div>
 <br>
 
