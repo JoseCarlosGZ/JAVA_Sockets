@@ -96,7 +96,7 @@ Cuando el servidor recibe dicha cadena la castea a número entero, se la suma a 
 </div>
 <br>
 <br>
-<b>(7)</b>.  Ventana informativa que indica al usuario que para retirar chirimoyas del almacén debe introducir un número entero negativo en el cuadro de texto txtRetirar (nº6 de figura 1).
+<b>(7)</b>.  Ventana informativa que indica al usuario que para retirar aguacates del almacén debe introducir un número entero negativo en el cuadro de texto txtRetirar (nº6 de figura 1).
 <br>
 <br>
 <b>(8)</b>. Botón que envía al controlador del servidor (vía socket) el contenido del cuadro de texto que le acompaña (nº9 de figura 1)  para disminuir la variable stock que guarda del lado del servidor el número de aguacates.
@@ -109,7 +109,7 @@ Cuando el servidor recibe dicha cadena la castea a número entero, se la resta (
 </div>
 <br>
 <br>
-<b>(10)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de chirimoyas de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
+<b>(10)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de aguacates de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
 <br>
 <br>
 <b>(11)</b>. Botón salir que cierra la ventana principal de la aplicación.
@@ -194,7 +194,7 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 </div>
 <br>
 <br>
-<b>(5)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de chirimoyas de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
+<b>(5)</b>. Cuadro de texto, que permanece actualizado constantemente con el stock de aguacates de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
 <br>
 <br>
 <b>(6)</b>. Botón salir que cierra la ventana principal de la aplicación.
