@@ -68,20 +68,15 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 </div>
 <br>
 <br>
-  (4). Etiqueta, cuya misión es la de informar al usuario del estado de la conexión Cliente-Servidor para brindar una experiencia de usuario agradable. Esta etiqueta tiene 3 estados: 
 
--Mientras el Servidor permanece sin conectar muestra el mensaje “conexión OFF” como se muestra en la figura 8 del presente documento.
--Cuando se ha creado el socket de la parte del servidor, pero aun no se ha conectado, es decir, la instrucción .accept() aún está en espera de la conexión del cliente. En este caso se  muestra el mensaje “Esperando conexión Cliente” en color naranja. Mirar figura 13.
--Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 14.
 
-De igual modo se han programado mensajes a nivel de entorno consola indicando los pasos que sigue la aplicación. Mirar video adjunto.
-
-</div>
-<br>
-<br>
 <b>(4)</b>. Etiqueta, cuya misión es la de informar al usuario del estado de la conexión Cliente-Servidor para brindar una experiencia de usuario agradable.  Esta etiqueta tiene 2 estados: 
-- Mientras el Cliente permanece sin conectar muestra el mensaje “conexión OFF” como aparece en la figura 1 del presente documento.
-- Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 5.
+
+<ul>
+  <li>Mientras el Cliente permanece sin conectar muestra el mensaje “conexión OFF” como aparece en la figura 1 del presente documento.</li>
+  <li>Cuando la conexión se ha establecido, el mensaje pasa a ser “conexión OK” en color verde. Mirar figura 5.</li>
+</ul>
+
 <br>
 <br>
 <div align="center">
