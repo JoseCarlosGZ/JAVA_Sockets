@@ -86,7 +86,7 @@ El método run() comienza a ejecutarse cuando se crea el hilo con la instrucció
 </div>
 <br>
 <br>
-<b>(5)</b>. Botón que envía al controlador del servidor (vía socket) el contenido del cuadro de texto que le acompaña (nº6 de figura 1)  para incrementar la variable stock que guarda del lado del servidor el número de chirimoyas.
+<b>(5)</b>. Botón que envía al controlador del servidor (vía socket) el contenido del cuadro de texto que le acompaña (nº6 de figura 1)  para incrementar la variable stock que guarda del lado del servidor el número de aguacates.
 Cuando el servidor recibe dicha cadena la castea a número entero, se la suma a la variable ‘stock’ manda el resultado de vuelta al cliente que lo muestra en el cuadro de texto txtConsultar (nº10 de figura 1). 
 <br>
 <br>
