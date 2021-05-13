@@ -11,8 +11,9 @@ _Figura 0\. Socket._
 
 ## Demostración de funcionamiento
 
-![](https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/demostracion.gif?raw=true) _Video demostrativo._
-<br/><br/><br/>
+![](https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/demostracion.gif?raw=true)
+_Video demostrativo._
+<br/><br/>
 
 
 ## Desarrollo de la Aplicación Cliente
