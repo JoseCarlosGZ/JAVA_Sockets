@@ -1,6 +1,6 @@
 [![](https://badgen.net/badge/Language/Java/red?icon=kofi) ](https://www.java.com/) [ ![](https://badgen.net/badge/ID/NetBeans/purple) ](https://netbeans.apache.org/) [![](https://img.shields.io/npm/l/markdownlint.svg)](http://opensource.org/licenses/MIT)
 
-# Comunicación en red por medio de sockets (TCP)
+# Comunicación en red mediante sockets (TCP)
 
 En este proyecto he construido una aplicación capaz de transmitir el stock de un almacén de aguacates entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
 
