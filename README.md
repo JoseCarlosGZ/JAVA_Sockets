@@ -2,7 +2,7 @@
 
 # Comunicación en red mediante sockets (TCP)
 
-En este proyecto he construido una aplicación capaz de transmitir el stock de un almacén de aguacates entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
+En este proyecto he programado una aplicación capaz de transmitir el stock de un almacén de aguacates entre dos equipos cliente y servidor conectados por red mediante sockets, haciendo uso del protocolo de comunicación TCP.
 
 ![Figura 0\. Socket](https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%200.%20Socket.png?raw=true)  
 _Figura 0\. Socket._    
