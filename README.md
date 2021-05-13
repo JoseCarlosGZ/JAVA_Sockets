@@ -23,7 +23,11 @@ La aplicación Cliente se ha construido siguiendo el patrón de diseño vista-co
 _Figura 1\. Interfaz Aplicación Cliente._
 <br/><br/>
 
-**(1)**. Cuadro de texto, cuya variable txtPuerto recibe el número de puerto al que se conectará el socket de la parte del Cliente. **(2)**. Cuadro de texto, cuya variable se txtDireccion recibe la dirección del servidor a la que se conectará el socket. **(3)**. Botón btnConexionCliente cuyo método ‘click’ creará una instancia de la clase HiloCliente donde creamos el hilo que controlará la creación del socket, conexión con el Servidor y flujos de Entrada/Salida.
+**(1)**. Cuadro de texto, cuya variable txtPuerto recibe el número de puerto al que se conectará el socket de la parte del Cliente.
+<br/>
+**(2)**. Cuadro de texto, cuya variable se txtDireccion recibe la dirección del servidor a la que se conectará el socket.
+<br/>
+**(3)**. Botón btnConexionCliente cuyo método ‘click’ creará una instancia de la clase HiloCliente donde creamos el hilo que controlará la creación del socket, conexión con el Servidor y flujos de Entrada/Salida.
 
 ![](https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%202.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnConexion.png?raw=true) _Figura 2\. Código del botón btnConexion._
 <br/><br/>
