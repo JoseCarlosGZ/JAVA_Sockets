@@ -64,7 +64,8 @@ _Figura 5\. Conexión Cliente-Servidor exitosa._
 
 **(11)**. Botón salir que cierra la ventana principal de la aplicación.
 
-![](https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%208.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnSalir.png) _ Figura 8\. Código del botón btnSalir._
+![](https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%208.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnSalir.png)
+_Figura 8\. Código del botón btnSalir._
 <br/><br/>
 
 ## Desarrollo de la Aplicación Servidor
