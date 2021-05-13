@@ -6,14 +6,14 @@ En este proyecto he construido una aplicación capaz de transmitir el stock de u
 
 ![Figura 0\. Socket](https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/Figura%200.%20Socket.png?raw=true)  
 _Figura 0\. Socket._    
-<br/><br/><br/>    
+<br/><br/> 
 
 
 ## Demostración de funcionamiento
 
 ![](https://github.com/hotomol/sockets/blob/main/Images%20for%20Readme.md/demostracion.gif?raw=true)
 _Video demostrativo._
-<br/><br/>
+<br/><br/><br/>   
 
 
 ## Desarrollo de la Aplicación Cliente
