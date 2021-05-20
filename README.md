@@ -65,7 +65,7 @@ _Figura 5\. Conexión Cliente-Servidor exitosa._
 ![](https://raw.githubusercontent.com/hotomol/sockets/main/Images%20for%20Readme.md/Figura%207.%20C%C3%B3digo%20del%20bot%C3%B3n%20btnRetirar.png) _Figura 7\. Código del botón btnRetirar._
 <br/><br/><br/>
 
-**(10)**. Cuadro de texto, que permanece actualizado constantemente con el stock de aguacates de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
+**(10)**. Cuadro de texto que permanece actualizado constantemente con el stock de aguacates de la variable ‘stock’ de la aplicación servidor. Su variable en el código es txtConsultar.
 
 **(11)**. Botón salir que cierra la ventana principal de la aplicación.
 
